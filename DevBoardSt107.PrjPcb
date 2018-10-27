@@ -106,23 +106,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PUKMWHYE
 
 [Document5]
-DocumentPath=DevBoardSt107.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=..\AltiumLibrary\sch\Logic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAQVMPFP
 
-[Document7]
+[Document6]
 DocumentPath=..\AltiumLibrary\pcb\Logic.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,10 +138,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGYHXCEQ
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for DevBoardSt107\DevBoardSt107.xls
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
